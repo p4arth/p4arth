@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paarth</h1>
 
 
-I'm a 19 years old Machine Learning practitioner based in Delhi. I'm pursuing my bachelors's in Data Science while working as an intern at a data science consulting company. I have been in the field of machine learning for more than a year now, learning new stuff, working on various problems, ranging from Demand Forecasting to Natural Language Understanding. Currently you'll find me studying natural language processing, learning PyTorch and advocating as a Hugging Face student ambassador. I'm actively trying to work on projects involving language models.
+I'm a 21 years old Machine Learning practitioner based in Delhi. I'm pursuing my bachelors's in Data Science while working as a machine learning engineer in the Chandigarh area. I have been in the field of machine learning for a while now, learning new stuff, working on various problems in computer vision, demand forecasting, and natural language understanding. Currently you'll find me studying diffusion models, learning PyTorch and advocating as a Hugging Face student ambassador. I'm actively trying to work on projects involving convnets.
 
 ## 🔗 Let's Connect!
 <a href="https://twitter.com/ra1dero" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -12,7 +12,7 @@ I'm a 19 years old Machine Learning practitioner based in Delhi. I'm pursuing my
 
 🐍 Python Stack
 - Natural Language Processing: Hugging Face (transformers, datasets), gensim, NLTK
-- Machine Learning: PyTorch, PyTorch Lightning, Scikit-learn
+- Machine Learning: PyTorch, PyTorch Lightning, Scikit-learn, OpenCV, Skimage
 - Data Science: Pandas, Numpy, Rapids
 - Demo: Matplotlib, Seaborn, Bokeh, Plotly
 - Misc Tools: Gradio, Streamlit
